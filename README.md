@@ -72,6 +72,10 @@
 
 # Media
 
+## News
+
+* [The buddhist channel](https://www.buddhistchannel.tv/)
+
 ## Magazines
 
 * [Tricycle](https://tricycle.org) - The Buddhist review.
