@@ -252,6 +252,7 @@ This next section is a "map" of the various schools of Buddhism.
 * [Rigpa Shedra Wiki](http://www.rigpawiki.org/index.php?title=Main_Page) - An online encyclopedia of Tibetan Buddhism.
 * [84000](http://read.84000.co) - 84000’s primary focus for translation is the canonical Tibetan texts included in the Kangyur and Tengyur.
 * [The Berzin Archives](https://studybuddhism.com/web/en/index.html) - The Berzin Archives is a collection of translations and teachings by Dr. Alexander Berzin primarily on the Mahayana and Vajrayana traditions of Tibetan Buddhism. 
+* [Lotsawa House](https://www.lotsawahouse.org/) - Translations of Tibetan Buddhist Texts
 
 ### Kagyu
 * [Wikipedia](https://en.wikipedia.org/wiki/Kagyu) - Kagyu school, also known as the "Oral Lineage" or Whispered Transmission school, is today regarded as one of six main schools of Himalayan or Tibetan Buddhism. The central teaching of Kagyu is the doctrine of Mahamudra, "the Great Seal".
