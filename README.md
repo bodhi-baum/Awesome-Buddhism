@@ -75,6 +75,7 @@
 ## News
 
 * [The buddhist channel](https://www.buddhistchannel.tv/)
+* [Buddhist Television](https://bodhitv.tv/) - News and teachings mainly in nepali language
 
 ## Magazines
 
